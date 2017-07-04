@@ -1,1 +1,1 @@
-"# vuejs-workout" 
+# basic setup vuejs + babel + webpack
